@@ -80,12 +80,30 @@ Tahapan eksplorasi data yang dilakukan:
 ![Capture](https://user-images.githubusercontent.com/115720444/195632334-b8271bf4-f903-4786-810c-9fd97e059ca2.JPG)
 
 2. Mengubah nilai pada beberapa kolom dengan nilai integer 0 atau 1 pada kolom yang nilainya Yes dan No untuk memudahkan proses dan visualisasi data.
+
 3. Visualisasi data dengan histogram
-4. Menampilkan semua unique valus masing-masing kolom untuk memastikan tidak ada data kotor.
+
+![output](https://user-images.githubusercontent.com/115720444/195632901-98170314-3aa0-4058-a1c6-f8d2c9d85cdf.png)
+
+4. Menampilkan semua unique value masing-masing kolom untuk memastikan tidak ada data kotor.
+
+![Capture](https://user-images.githubusercontent.com/115720444/195633150-89c35580-0066-4ad3-bdf0-a50f688f55ea.JPG)
+
 5. Menampilkan statistik deskriptif dari masing-masing target ditemukan pada karyawan yang tidak resign rata-rata usia lebih tinggi, daily rate lebih tinggi, DistanceFromHome lebih dekat/kecil, EnvironmentSatisfaction dan JobSatisfaction lebih tinggi, dan StockOptionLevel lebih tinggi.
+
+![Capture](https://user-images.githubusercontent.com/115720444/195633427-f4a8d0cc-9743-4fd6-b0a1-0fa90fc07b18.JPG)
+
 6. Visualisasi korelasi tiap data dengan heatmap. Beberapa kolom yang berkorelasi tinggi diantaranya Job level dan total working hours, Monthly income dan Job level, Monthly income dan total working hours, dan Age dan monthly income.
+
+![output](https://user-images.githubusercontent.com/115720444/195633898-765f233e-bdad-4a75-9ec4-450970fa8e1f.png)
+
 7. Visualisasi data Monthly Income dengan boxplot untuk setiap Job Role. Terlihat setiap Job ROle memiliki rentang Monthly Income yang berbeda-beda.
+
+![output](https://user-images.githubusercontent.com/115720444/195634260-f5d73c72-b56d-4e41-92dd-99dbd6b4743c.png)
+
 8. Visualisasi target dengan barchart. Dataset memiliki target yang imbalance.
+
+![output](https://user-images.githubusercontent.com/115720444/195634374-41fbf248-1256-4944-b62f-a8aae498b9ed.png)
 
 ## Data Preparation
 Teknik preparasi data yang dilakukan sebagai berikut:
