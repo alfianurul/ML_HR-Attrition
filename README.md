@@ -76,6 +76,9 @@ Dataset yang digunakan adalah dataset fiksi yang dibuat oleh IBM data scientists
 ### Exploratory Data Analysis
 Tahapan eksplorasi data yang dilakukan:
 1. Check Missing value, untuk memastikan apakah diperlukan imputasi. Tidak ditemukan adanya missing value.
+
+![Capture](https://user-images.githubusercontent.com/115720444/195632334-b8271bf4-f903-4786-810c-9fd97e059ca2.JPG)
+
 2. Mengubah nilai pada beberapa kolom dengan nilai integer 0 atau 1 pada kolom yang nilainya Yes dan No untuk memudahkan proses dan visualisasi data.
 3. Visualisasi data dengan histogram
 4. Menampilkan semua unique valus masing-masing kolom untuk memastikan tidak ada data kotor.
