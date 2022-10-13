@@ -11,7 +11,7 @@ Program retensi sendiri membutuhkan diagnosis yang tepat terkait dengan penyebab
 1. [Is It Time to Outsource Human Resources?](https://www.entrepreneur.com/article/217866) 
 2. [What Does It Cost to Hire an Employee?](https://www.businessnewsdaily.com/16562-cost-of-hiring-an-employee.html) 
 3. [How much do recruitment agencies charge?](https://www.hiringpeople.co.uk/blog/how-much-do-recruitment-agencies-charge/)
-4. [Employee Retention Strategies: IT Industry] (https://scholar.google.co.id/scholar_url?url=https://www.academia.edu/download/30315431/scms_journal_july-september_2012.pdf%23page%3D81&hl=en&sa=X&ei=yIHyYpfbLcm8ywTT0rmoAw&scisig=AAGBfm1bl29qH-zEwHoBwDu48chcFkRmAw&oi=scholarr)
+4. [Employee Retention Strategies: IT Industry](https://scholar.google.co.id/scholar_url?url=https://www.academia.edu/download/30315431/scms_journal_july-september_2012.pdf%23page%3D81&hl=en&sa=X&ei=yIHyYpfbLcm8ywTT0rmoAw&scisig=AAGBfm1bl29qH-zEwHoBwDu48chcFkRmAw&oi=scholarr)
 
 ## Business Understanding
 
